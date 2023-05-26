@@ -1,0 +1,66 @@
+[
+  {
+    "id": "cf4db6e4-9f52-40d3-9dd8-6c6633707889",
+    "firstName": "sardorbek",
+    "lastName": "samijonov",
+    "email": "sardorbekAdmin3@gmail.com",
+    "password": "$2b$12$2YshxIGs2Is3JZUfSmBc7.3oKT92ZjwAjdxO8KgrFRyjuSeH/53x.",
+    "role": "customer"
+  },
+  {
+    "id": "f53996bd-0638-42c5-8ee8-84bab63554c6",
+    "firstName": "sardorbek",
+    "lastName": "samijonov",
+    "email": "sardorbekAdmin@gmail.com",
+    "password": "$2b$12$f9q5GGu8FHZotR2HBHHOkeb6V.v6SGHIcHznbtsym8GZfgL35Dz2C",
+    "role": "customer"
+  },
+  {
+    "id": "a76ee34d-7c0c-4fac-9e6f-80f950254168",
+    "firstName": "sardorbek",
+    "lastName": "samijonov",
+    "email": "sardorbek1@gmail.com",
+    "password": "$2b$12$tx0mbzVChtGa6AEg910NZ.Wi8YGGL62m4eSVqVMxPaGxP.xhC9EiW",
+    "role": "customer"
+  },
+  {
+    "id": "d2b26634-9db6-482b-b3b7-60803fb8d02a",
+    "firstName": "sardorbek",
+    "lastName": "samijonov",
+    "email": "sardorbek2@gmail.com",
+    "password": "$2b$12$LJSj2By.a5pADpzbw.XNY.Szb/JwY5Nv1ad1L.h.8or0Pcrqx2YUi",
+    "role": "customer"
+  },
+  {
+    "id": "fc627b62-627e-4731-b98e-9e6137923c61",
+    "firstName": "sardorbek",
+    "lastName": "samijonov",
+    "email": "sardorbek3@gmail.com",
+    "password": "$2b$12$8HQ3vebR8bTGHs7UMVCKGOivZMnOD/YVNho4DjBEtxikUXzghyJ5q",
+    "role": "customer"
+  },
+  {
+    "id": "d0472c72-a1db-4514-8be1-c6da0fa71bd5",
+    "firstName": "sardorbek",
+    "lastName": "samijonov",
+    "email": "sardorbek@gmail.com",
+    "password": "$2b$12$qLZdug6XSFmWO3VxI8TWRe2My8dMjcJSFExUNK/5m6WaUIn5lTu8m",
+    "role": "admin"
+  },
+  {
+    "id": "42df0e81-e1cd-48ae-b5e6-056eeb541531",
+    "firstName": "mol",
+    "lastName": "samijonobv",
+    "email": "sardorbekAdmin111@gmail.com",
+    "password": "$2b$12$OkBLMY4uArLLTlyTAyGCyevtZks6oo9bDSnKkAM5YvlpGcia6qx3S",
+    "role": "admin"
+  },
+  {
+    "id": "afdcc017-c35e-477b-a63c-d812c1699713",
+    "firstName": "mol",
+    "lastName": "samijonobv",
+    "email": "admin@gmail.com",
+    "password": "$2b$12$sTFsu094ih1Kaf2/bRebbOpXnJN0hgatYmIf32RUFhxaBdYDiX1I.",
+    "role": "admin"
+  }
+]
